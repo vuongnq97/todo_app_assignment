@@ -25,20 +25,17 @@ The app about todo tasks on ios platform and android platform.
 - Update a task if completed or incomplete.
 - Filter by finish date or status(completed, incomplete or both).
 
-
 Doctor summary (to see all details, run flutter doctor -v):
 
-[✓] Flutter (Channel unknown, 2.10.0, on macOS 11.6 20G165 darwin-x64, locale en-US)
-[✓] Android toolchain - develop for Android devices (Android SDK version 32.0.0-rc1)
-[✓] Xcode - develop for iOS and macOS (Xcode 13.2.1)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2021.2)
-[✓] IntelliJ IDEA Ultimate Edition (version 2021.2.3)
-[✓] IntelliJ IDEA Community Edition (version 2021.2)
-[✓] VS Code (version 1.68.0)
-[✓] Connected device (1 available)
-[✓] HTTP Host Availability
-
+- [✓] Flutter (Channel unknown, 2.10.0, on macOS 11.6 20G165 darwin-x64, locale en-US)
+- [✓] Android toolchain - develop for Android devices (Android SDK version 32.0.0-rc1)
+- [✓] Xcode - develop for iOS and macOS (Xcode 13.2.1)
+- [✓] Chrome - develop for the web -[✓] Android Studio (version 2021.2)
+- [✓] IntelliJ IDEA Ultimate Edition (version 2021.2.3)
+- [✓] IntelliJ IDEA Community Edition (version 2021.2)
+- [✓] VS Code (version 1.68.0)
+- [✓] Connected device (1 available)
+- [✓] HTTP Host Availability
 
 # Steps to run the app:
 
