@@ -30,7 +30,7 @@ class App extends StatelessWidget {
         getPages: AppPages.routes,
         initialBinding: AppBindings(),
         smartManagement: SmartManagement.keepFactory,
-        title: 'Todo App',
+        title: 'ToDo',
         locale: TranslationService.locale,
         localizationsDelegates: const [
           DefaultCupertinoLocalizations.delegate,
